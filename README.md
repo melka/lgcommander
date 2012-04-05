@@ -12,7 +12,7 @@ A PC, with python 3.x installed, connected to the same network as your Lg TV.
 * for Installation menu enter 207
 * for POWER_ONLY mode enter 254
 
-Warning: do not enter 254 if you \ndo not know what POWER_ONLY mode is. You can find additional information about menus an modes here: <http://openlgtv.org.ru>   
+Warning: do not enter 254 if you do not know what POWER_ONLY mode is. You can find additional information about menus and modes here: <http://openlgtv.org.ru>   
  
 As long as you do not "factory reset" your TV, pairing key doesn't change. You can use an editor to modify the line:
 
