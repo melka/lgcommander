@@ -6,10 +6,12 @@ It can be used for gaining access to hidden menus and modes.
 A PC, with python 3.x installed, connected to the same network as your Lg TV.
 
 ## Some useful codes:
-for EZ_ADJUST menu enter 255
-for IN START menu enter 251
-for Installation menu enter 207
-for POWER_ONLY mode enter 254
+
+* for EZ_ADJUST menu enter 255
+* for IN START menu enter 251
+* for Installation menu enter 207
+* for POWER_ONLY mode enter 254
+
 Warning: do not enter 254 if you \ndo not know what POWER_ONLY mode is.
 
 You can find additionsal information about menus an modes here: <http://openlgtv.org.ru>
@@ -34,5 +36,5 @@ You can avoid the black console window if you change the "py" file extension to 
 *   <http://openlgtv.org.ru>
 
 
-*   An application written in ruby where you can find a comprehensive list of command codes:
-    <https://github.com/dreamcat4/lgremote>
+*   An application written in ruby where you can find a comprehensive list of command codes:    
+<https://github.com/dreamcat4/lgremote>
