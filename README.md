@@ -1,9 +1,9 @@
 ## lgcommander.py
-lgcommander.py is a python script for controlling your Smart LG TV with your PC.
-It can be used for gaining accessing to hidden menus and modes.
+lgcommander.py is a python script for controlling your Smart Lg TV with your PC.
+It can be used for gaining access to hidden menus and modes.
 
 ## To use it you need:
-A PC with python 3.x installed connected to the same network as your LG TV
+A PC, with python 3.x installed, connected to the same network as your Lg TV.
 
 ## Some useful codes:
 for EZ_ADJUST menu enter 255
@@ -14,12 +14,14 @@ Warning: do not enter 254 if you \ndo not know what POWER_ONLY mode is.
 
 You can find additionsal information about menus an modes here: <http://openlgtv.org.ru>
 
-As long as you do not "Factory reset" your TV, pairing key doesn't change. You can use an editor to modify the line:
-    lgtv["pairingKey"] = "DDGWUF"
+As long as you do not "factory reset" your TV, pairing key doesn't change. You can use an editor to modify the line:
+
+    lgtv["pairingKey"] = "DDGWUF"    
+
 to suit your TV's actual pairing key.  This will eliminate the pairing key acquisition stage.
 
 
-### Windows users:
+## Windows users:
 ----
 You can avoid the black console window if you change the "py" file extension to "pyw".
 
@@ -32,4 +34,5 @@ You can avoid the black console window if you change the "py" file extension to 
 *   <http://openlgtv.org.ru>
 
 
-*   An application written in ruby where you can find a comprehensive list of command codes: <https://github.com/dreamcat4/lgremote>
+*   An application written in ruby where you can find a comprehensive list of command codes:
+    <https://github.com/dreamcat4/lgremote>
