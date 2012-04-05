@@ -24,7 +24,7 @@ to suit your TV's actual pairing key.  This will eliminate the pairing key acqui
 ## Windows users:
 You can avoid the black console window if you change the "py" file extension to "pyw".
 
-#### This sowtware was developed with inspiration and/or information taken from:
+#### This software was developed with inspiration and/or information taken from:
 
 *   <http://python.org>
 
